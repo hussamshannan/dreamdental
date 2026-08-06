@@ -106,7 +106,7 @@ export function SiteFooter() {
           © 2026 Dream Dental. All rights reserved.
         </span>
         <span style={{ fontSize: "12px", color: "var(--muted-foreground)" }}>
-          Doha, Qatar
+          Cairo, Egypt
         </span>
       </div>
     </footer>

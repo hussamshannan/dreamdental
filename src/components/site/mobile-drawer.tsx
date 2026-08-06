@@ -336,7 +336,7 @@ export function MobileDrawer({ onClose, rootRef }: MobileDrawerProps) {
             <span
               style={{ fontSize: "12px", color: "var(--muted-foreground)" }}
             >
-              hello@dreamdental.qa
+              hello@dreamdental.eg
             </span>
             <span
               style={{
@@ -345,7 +345,7 @@ export function MobileDrawer({ onClose, rootRef }: MobileDrawerProps) {
                 color: "var(--muted-foreground)",
               }}
             >
-              DOHA, QATAR
+              CAIRO, EGYPT
             </span>
           </div>
         </div>
